@@ -37,3 +37,5 @@
   <a href="https://twitter.com/FHenrikenn" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/users/285597603062743040" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
+
+  ![snake gif](https://github.com/HenriKenn/HenriKenn/blob/output/github-contribution-grid-snake.svg)
